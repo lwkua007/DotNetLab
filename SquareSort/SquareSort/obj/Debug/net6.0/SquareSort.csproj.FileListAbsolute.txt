@@ -1,0 +1,15 @@
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\bin\Debug\net6.0\SquareSort.exe
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\bin\Debug\net6.0\SquareSort.deps.json
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\bin\Debug\net6.0\SquareSort.runtimeconfig.json
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\bin\Debug\net6.0\SquareSort.dll
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\bin\Debug\net6.0\SquareSort.pdb
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\obj\Debug\net6.0\SquareSort.csproj.AssemblyReference.cache
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\obj\Debug\net6.0\SquareSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\obj\Debug\net6.0\SquareSort.AssemblyInfoInputs.cache
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\obj\Debug\net6.0\SquareSort.AssemblyInfo.cs
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\obj\Debug\net6.0\SquareSort.csproj.CoreCompileInputs.cache
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\obj\Debug\net6.0\SquareSort.dll
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\obj\Debug\net6.0\refint\SquareSort.dll
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\obj\Debug\net6.0\SquareSort.pdb
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\obj\Debug\net6.0\SquareSort.genruntimeconfig.cache
+D:\LearningLab\cudaLab\DotNetLab\SquareSort\SquareSort\obj\Debug\net6.0\ref\SquareSort.dll
