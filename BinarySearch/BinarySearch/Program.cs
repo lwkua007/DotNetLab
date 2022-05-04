@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HelloWorld
+namespace BinarySearch
 {
     class BinarySearch
     {
@@ -46,9 +46,9 @@ namespace HelloWorld
             {
                 int mid = (right - left) / 2 + left;
                 int num = array[mid];
-                if (num == target){return mid;}
-                else if (num > target){right = mid - 1;}
-                else{left = mid + 1;}
+                if (num == target) { return mid; }
+                else if (num > target) { right = mid - 1; }
+                else { left = mid + 1; }
             }
             return -1;
         }

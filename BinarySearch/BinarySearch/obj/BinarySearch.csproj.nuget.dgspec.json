@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LearningLab\\cudaLab\\Project\\Project\\Project.csproj": {}
+    "D:\\LearningLab\\cudaLab\\DotNetLab\\BinarySearch\\BinarySearch\\BinarySearch.csproj": {}
   },
   "projects": {
-    "D:\\LearningLab\\cudaLab\\Project\\Project\\Project.csproj": {
+    "D:\\LearningLab\\cudaLab\\DotNetLab\\BinarySearch\\BinarySearch\\BinarySearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LearningLab\\cudaLab\\Project\\Project\\Project.csproj",
-        "projectName": "Project",
-        "projectPath": "D:\\LearningLab\\cudaLab\\Project\\Project\\Project.csproj",
+        "projectUniqueName": "D:\\LearningLab\\cudaLab\\DotNetLab\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
+        "projectName": "BinarySearch",
+        "projectPath": "D:\\LearningLab\\cudaLab\\DotNetLab\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\LearningLab\\cudaLab\\Project\\Project\\obj\\",
+        "outputPath": "D:\\LearningLab\\cudaLab\\DotNetLab\\BinarySearch\\BinarySearch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
