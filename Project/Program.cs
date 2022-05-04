@@ -2,7 +2,7 @@
 
 namespace HelloWorld
 {
-    class Program
+    class BinarySearch
     {
         public static void Main(string[] args)
         {
