@@ -4,7 +4,7 @@ namespace Calculator
     {
         double firstNumber;
         double secondNumber;
-        string operationSymbol;
+        string operationSymbol = "";
         public MainForm()
         {
             InitializeComponent();
