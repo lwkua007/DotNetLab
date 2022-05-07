@@ -12,15 +12,6 @@ namespace FirstDesktopApp
             this.inputListBox.Items.Add(1);
         }
 
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void calculateButton_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void Sort_Click(object sender, EventArgs e)
         {
             List<int> list = new List<int>();
@@ -37,14 +28,5 @@ namespace FirstDesktopApp
             }
         }
 
-        private void inputListBox_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void outputListBox_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

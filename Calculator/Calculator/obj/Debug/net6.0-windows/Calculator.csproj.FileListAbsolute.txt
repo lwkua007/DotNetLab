@@ -1,0 +1,17 @@
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.MainForm.resources
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+D:\LearningLab\cudaLab\DotNetLab\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll

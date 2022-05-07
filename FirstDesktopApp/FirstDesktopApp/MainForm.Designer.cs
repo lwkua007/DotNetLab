@@ -43,7 +43,7 @@
             this.inputListBox.Name = "inputListBox";
             this.inputListBox.Size = new System.Drawing.Size(177, 123);
             this.inputListBox.TabIndex = 0;
-            this.inputListBox.SelectedIndexChanged += new System.EventHandler(this.inputListBox_SelectedIndexChanged);
+            //this.inputListBox.SelectedIndexChanged += new System.EventHandler(this.inputListBox_SelectedIndexChanged);
             // 
             // outputListBox
             // 
@@ -53,7 +53,7 @@
             this.outputListBox.Name = "outputListBox";
             this.outputListBox.Size = new System.Drawing.Size(180, 123);
             this.outputListBox.TabIndex = 1;
-            this.outputListBox.SelectedIndexChanged += new System.EventHandler(this.outputListBox_SelectedIndexChanged);
+            //this.outputListBox.SelectedIndexChanged += new System.EventHandler(this.outputListBox_SelectedIndexChanged);
             // 
             // Sort
             // 
