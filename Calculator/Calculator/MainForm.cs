@@ -2,9 +2,9 @@ namespace Calculator
 {
     public partial class MainForm : Form
     {
-        double firstNumber;
-        double secondNumber;
-        string operationSymbol = "";
+        private double firstNumber;
+        private double secondNumber;
+        private string operationSymbol = "";
         public MainForm()
         {
             InitializeComponent();
